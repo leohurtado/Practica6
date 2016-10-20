@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica6</string>
+    <string name="CalifA">Calificaciones de Las Pruebas en las Aulas</string>
+    <string name="CalifB">Calificaciones de Las Pruebas en Laboratorio</string>
+    <string name="P1">Practica 1</string>
+    <string name="P2">Practica 2</string>
+    <string name="P3">Practica 3</string>
+    <string name="P4">Practica 4</string>
+    <string name="Calcular">Calcular Nota minima del Proyecto Final</string>
+    <string name="PY">Para pasar necesita: </string>
+</resources>
